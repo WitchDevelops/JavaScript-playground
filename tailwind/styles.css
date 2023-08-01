@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.card {
+    overflow: hidden;
+}
+
+.playground {
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+h2 {
+    text-align: center;
+}
