@@ -11,7 +11,7 @@ let reverseArray = (array) => {
     reversedArray.push(array[i]);
   }
   let string = reversedArray.toString().split(",").join(" ");
-  console.log(string);
+  //console.log(string);
   return (string);
 };
 

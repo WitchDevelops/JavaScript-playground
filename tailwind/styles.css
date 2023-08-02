@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.card {
-    overflow: hidden;
-}
+
 
 .playground {
     margin-top: 1rem;
@@ -14,8 +12,10 @@
 
 ol {
     list-style-type: circle;
+    margin-left: 2rem;
 }
 
 h2 {
     text-align: center;
 }
+
